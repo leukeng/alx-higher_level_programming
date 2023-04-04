@@ -1,1 +1,1 @@
-0x07. Python - Test-driven development
+Don’t trust the user, always think about all possible edge cases
