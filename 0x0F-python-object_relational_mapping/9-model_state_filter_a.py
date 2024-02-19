@@ -15,4 +15,3 @@ if __name__ == "__main__":
 
     for states in session.query(State).filter(State.name.contains('%a')):
         print("{}: {}".format(states.id, states.name))
-
